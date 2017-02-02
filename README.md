@@ -10,3 +10,5 @@ This is a public repository for COSC/MATH 4931 tutorials, datasets and example c
 **Jan 26:** Building on our intuition and data exploration, we start unsupervised learning through cluster analysis. Examples shown are k-means, dbscan and affinitypropagation.
 
 **Jan 31:** More exploration of Fisher's iris dataset with multiple clustering approaches e.g. meanshift, spectral clustering etc.
+
+**Feb 2** Introduction to Hadley Wickham's tidy data and tidy verse from theory. 
