@@ -11,4 +11,6 @@ This is a public repository for COSC/MATH 4931 tutorials, datasets and example c
 
 **Jan 31:** More exploration of Fisher's iris dataset with multiple clustering approaches e.g. meanshift, spectral clustering etc.
 
-**Feb 2** Introduction to Hadley Wickham's tidy data and tidy verse from theory. 
+**Feb 2** Introduction to Hadley Wickham's tidy data and tidy verse from theory.
+
+**Feb 7** More exposition of tidy data with code, specifically from: http://r4ds.had.co.nz/wrangle-intro.html
