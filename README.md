@@ -14,3 +14,8 @@ This is a public repository for COSC/MATH 4931 tutorials, datasets and example c
 **Feb 2** Introduction to Hadley Wickham's tidy data and tidy verse from theory.
 
 **Feb 7** More exposition of tidy data with code, specifically from: http://r4ds.had.co.nz/wrangle-intro.html
+
+**Feb 9** Guest lecture by Carolyn Olsen from Northwestern Mutual
+
+**Feb 14** Introduction to frequentist and bayesian statistical frameworks
+
