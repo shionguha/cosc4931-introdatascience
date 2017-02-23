@@ -19,3 +19,9 @@ This is a public repository for COSC/MATH 4931 tutorials, datasets and example c
 
 **Feb 14** Introduction to frequentist and bayesian statistical frameworks
 
+**Feb 16** project topic presentations I
+
+**Feb 21** project topic presentations II
+
+**Feb 23** naive bayes algorithms with mushroom dataset (uploaded)
+
