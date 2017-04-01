@@ -25,3 +25,24 @@ This is a public repository for COSC/MATH 4931 tutorials, datasets and example c
 
 **Feb 23** naive bayes algorithms with mushroom dataset (uploaded)
 
+**Feb 28:** no class, away to cscw
+
+**Mar 2:** heather bort guest lecture
+
+**Mar 7:** introduction to binary logistic regression (R code uploaded)
+
+**Mar 9:** work on mid-term project submission class; project due 11:59 pm.
+
+**Mar 14:** spring break, no class.
+
+**Mar 16:** spring break, no class.
+
+**Mar 21:** how do we report statistical results? 
+
+**Mar 23:** continue discussion on binary logistic regression;
+
+**Mar 28:** introduction to ordinal logit regressions (R code and data (ologit.dta) uploaded)
+
+**Mar 30:** introduction to support vector machines (jupyter code uploaded)
+
+**Apr 4:** basic image processing, boosting and support vector machines (jupyter code uploaded)
