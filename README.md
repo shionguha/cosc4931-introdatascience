@@ -46,3 +46,7 @@ This is a public repository for COSC/MATH 4931 tutorials, datasets and example c
 **Mar 30:** introduction to support vector machines (jupyter code uploaded)
 
 **Apr 4:** basic image processing, boosting and support vector machines (jupyter code uploaded)
+
+**Apr 6** introduction to ensemble learning; introduction to boosting, specifically adaboost
+
+**Apr 11** introduction to ensemble learning; introduction to boostrapping and random forests
