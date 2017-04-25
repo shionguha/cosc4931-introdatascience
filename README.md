@@ -52,3 +52,5 @@ This is a public repository for COSC/MATH 4931 tutorials, datasets and example c
 **Apr 11** introduction to ensemble learning; introduction to boostrapping and random forests
 
 **Apr 18** introduction to machine learning diagnostics and k-fold crossvalidation
+
+**Apr 25** topic modeling with mallet demo
